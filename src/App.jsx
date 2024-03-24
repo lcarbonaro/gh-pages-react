@@ -21,10 +21,10 @@ function App() {
   return (
     <>
       
-      <h1>React App on Github Pages</h1>
+      <h1>React App Deployment</h1>
       <h2>calling some api</h2>
       <div className="card">
-        
+
         <div>
           <img src={imgSrc} alt="" />
         </div>
